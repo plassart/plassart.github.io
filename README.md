@@ -1,3 +1,3 @@
-# plassart website
+# Website
 
 https://plassart.github.io/
