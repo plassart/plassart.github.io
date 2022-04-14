@@ -11,6 +11,7 @@
     font-size: 14px;
     line-height: 21px;
     color: #333;
+    background: #F2EBE5;/* couleur de fond a changer */
 
     margin: auto;
     /* background-image: url(http://orgmode.org/worg-unicorn.png); */
@@ -21,6 +22,7 @@
       padding-top: 70px;
       max-width: 1000px;
       margin: auto;
+      background: #F2EBE5;/* couleur de fond a changer */
     }
     body .title {
       margin-left: 120px;
